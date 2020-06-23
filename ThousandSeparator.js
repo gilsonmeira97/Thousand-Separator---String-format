@@ -19,6 +19,6 @@ function format(input){
   });
   
   formattedValue = formattedValue.reverse(); // Inverts the array to the normal position.
-  input.value = formattedValue.join("");  // 
+  input.value = formattedValue.join("");  
 
 }
